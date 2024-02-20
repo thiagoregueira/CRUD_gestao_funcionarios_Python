@@ -26,6 +26,7 @@ O projeto tem a seguinte estrutura de diretório:
 
 Para executar este projeto, siga estas etapas:
 
-1. Instale as dependências do projeto com o comando `pip install -r requirements.txt`.
-2. Execute o arquivo `main.py` com o comando `python main.py`.
+1. Clone este repositório git.
+2. Instale as dependências do projeto com o comando `pip install -r requirements.txt`.
+3. Execute o arquivo `main.py` com o comando `python main.py`.
 
